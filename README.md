@@ -3,6 +3,8 @@
 This project analyzes a retail "Superstore Sales dataset" using "SQLite" and "Python (Pandas + Matplotlib)".  
 It uncovers key business insights like revenue trends, top customers, churn, and growth rates.  
 
+#Data Set
+url="https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting"
 
 #Features:-
 1. "Monthly Revenue Trend"  
